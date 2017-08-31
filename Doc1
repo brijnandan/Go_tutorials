@@ -1,0 +1,11 @@
+1) golang playground .. browser practice for go lang
+
+2) offical website : https://golang.org/
+Native_builtin packages -->   packages --> standard library 
+
+3) godoc.org  we can search for thitd party packages here.
+4) to get source code from the documentation
+https://golang.org/pkg/fmt/
+change the pkg  in above URL to src.
+
+
