@@ -8,4 +8,10 @@ Native_builtin packages -->   packages --> standard library
 https://golang.org/pkg/fmt/
 change the pkg  in above URL to src.
 
+5) setting up path varibales 
+"go env" provides a list of the path variables for go.
+
+6) go get command fetches the third party packages from https://godoc.org/
+
+
 
