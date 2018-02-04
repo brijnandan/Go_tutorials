@@ -1,0 +1,19 @@
+1) short hand method 
+
+just initialize the value
+a := 10
+b := "golang"
+c := 4.17
+f := "Do you like my HAT"
+ to print them fmt.Println("%v \n", a)
+ 
+ similarly for  knwing the type we can print %T
+ 
+ 2) Var style
+ 
+ var a int
+ var b string
+ var c float64
+ 
+ by deafult the default values are given for the statements.
+ a is 0, b nothing means null, etc
