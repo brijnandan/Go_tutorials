@@ -1,0 +1,19 @@
+1) Packages has to be imported as  FQDN 
+
+import (
+
+     "fmt"
+     "folder1/folder2/packagefolder"
+)
+
+2) the first line of the files insdide the folder package has to be same as  Package name
+ex
+package packagefolder 
+
+3) Package scope:  the functions inside the multiple files are available inside the same package.
+
+4)  making non accessible function : to make a functionaccessible outside a package we need to declare it with first letter captial. If letter is small it cant be accessed outside a package.
+
+ex: func reverse() // not accessible
+    func Reverse() // accessible 
+
