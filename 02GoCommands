@@ -1,0 +1,4 @@
+go run (filename)  runs the go file
+go build only in main file
+go install   creates and installs the exe in bin folder 
+go clean  removed the exe from the main directory
